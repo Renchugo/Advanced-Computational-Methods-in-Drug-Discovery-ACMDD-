@@ -1,2 +1,3 @@
 # Advanced-Computational-Methods-in-Drug-Discovery-ACMDD-
-For Advanced Computational Methods in Drug Discovery (ACMDD) practical project
+For ACMDD practical project by Alex and Zhicheng
+
