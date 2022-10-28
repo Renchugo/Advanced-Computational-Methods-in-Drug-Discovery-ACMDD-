@@ -9,4 +9,6 @@ A: https://www.sciencedirect.com/science/article/pii/S2352914821002392
 pIC50:5.92
 
 3. For Talktorial 8, in the line of choosing resolution PDB entries, allosteric and orthosteric ligands for MCL1 need to get from literature
+A: Can't find relavant literature, so didn't distinguish allosteric and orthosteric ligands
+
 4. In the output image, some images are not available, not sure if it is because my computer.
