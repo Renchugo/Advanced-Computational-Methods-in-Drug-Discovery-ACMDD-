@@ -9,7 +9,7 @@ The Python-basic folder includes: the python assignments that we received on day
 
 The Talktorials folder indcludes: the talktorials that we used for our research and are filled in. This folder also includes a separate word file with answers to the quizzes of these corresponding talktorials
 
-The CBR folder includes: the final assignment of this course, consisting of the 3 parts just as we received the assignment.
+The CBR folder includes: the final assignment of this course, consisting of the 3 parts that we received the assignment.
 
 
 In the main folder we also uploaded our presentation and a word file that includes our background research, literature, conclusions and discussion.
