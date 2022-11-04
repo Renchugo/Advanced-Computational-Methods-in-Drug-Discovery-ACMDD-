@@ -14,3 +14,4 @@ This project is composed of three folders (Python_basic, Talktorials, CBR), powe
 
 5. In the main folder we also uploaded our presentation and a word file that includes our background research, literature, conclusions and discussion.
 
+6. ******For PDF file, like discussion and answers to questions, we have more pages, please click 'load more pages' in the bottom.
