@@ -1,6 +1,13 @@
 # Advanced-Computational-Methods-in-Drug-Discovery-ACMDD-
 For ACMDD practical project by Arles Lesmana，Zhicheng Zhang and Kaj van Schie.
 
+This project is composed of three folders (Python_basic, Talktorials, CBR), powerpoint for presentation and final discussion document using our target MCL-1.
+
+Each folder include the corresponding code and also we upload questions to these parts separately.
+
+
+
+
 Talktorials from 1-8 still have some unsolved questions:
 1. For unwanted structures, we just take PAINS as example, but it is also possible to use an external list and get structure matches manually. If we have time, additional literature work.
 
