@@ -1,4 +1,5 @@
-# Advanced-Computational-Methods-in-Drug-Discovery-ACMDD-
+# Discovery of Potent Myeloid Cell Leukemia 1 (Mcl-1) Inhibitors Using Fragment-Based Methods and Structure-Based Design 
+
 ACMDD practical project by Arles Lesmana (s3142272)，Zhicheng Zhang (s3089681) and Kaj van Schie (s1814524).
 
 This project is composed of three folders (Python_basic, Talktorials, CBR), powerpoint for presentation and final discussion document using our target MCL-1.
