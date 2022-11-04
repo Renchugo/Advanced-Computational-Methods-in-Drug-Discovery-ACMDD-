@@ -3,21 +3,11 @@ For ACMDD practical project by Arles Lesmana，Zhicheng Zhang and Kaj van Schie.
 
 This project is composed of three folders (Python_basic, Talktorials, CBR), powerpoint for presentation and final discussion document using our target MCL-1.
 
-Each folder include the corresponding code and also we upload questions to these parts separately.
+Each folder include the corresponding code and also we uploaded questions to these parts separately in word documents.
 
+The Python-basic folder includes the python assignments that we received on day 1 of the course.
+The Talktorials folder indcludes the talktorials that we used for our research and are filled in. This folder also includes a separate word file with answers to the quizzes of these corresponding talktorials
+The CBR folder includes the final assignment of this course, consisting of the 3 parts just as we received the assignment.
 
+In the main folder we also uploaded our presentation and a word file that includes our background research, literature and conclusions and discussion.
 
-
-Talktorials from 1-8 still have some unsolved questions:
-1. For unwanted structures, we just take PAINS as example, but it is also possible to use an external list and get structure matches manually. If we have time, additional literature work.
-
-2. For decide whether a molecule is active or inactive, we take pIC50 cutoff value, but this value for our target MCL1 hasn't make sure, for now I use value of 6.3
-A: https://www.sciencedirect.com/science/article/pii/S2352914821002392
-pIC50:5.92
-
-3. For Talktorial 8, in the line of choosing resolution PDB entries, allosteric and orthosteric ligands for MCL1 need to get from literature
-A: Can't find relavant literature, so didn't distinguish allosteric and orthosteric ligands
-
-4. For Talktorial 9, in the process of setting static parameters for k-means clustering 'kq = 7', this value can from further literature researching
-
-5. In the output image, some images are not available, not sure if it is because my computer.
