@@ -1,5 +1,5 @@
 # Advanced-Computational-Methods-in-Drug-Discovery-ACMDD-
-ACMDD practical project by Arles Lesmana，Zhicheng Zhang and Kaj van Schie.
+ACMDD practical project by Arles Lesmana (s3142272)，Zhicheng Zhang (s3089681) and Kaj van Schie (s1814524).
 
 This project is composed of three folders (Python_basic, Talktorials, CBR), powerpoint for presentation and final discussion document using our target MCL-1.
 
