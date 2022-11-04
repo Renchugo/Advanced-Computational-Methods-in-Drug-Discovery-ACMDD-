@@ -4,14 +4,13 @@ ACMDD practical project by Arles Lesmana (s3142272)，Zhicheng Zhang (s3089681) 
 
 This project is composed of three folders (Python_basic, Talktorials, CBR), powerpoint for presentation and final discussion document using our target MCL-1.
 
-In each folder there are word documents present that can be downloaded in order to see our answers to the questions and quizzes
+1. In each folder there are word documents present that can be downloaded in order to see our answers to the questions and quizzes
 
-The Python-basic folder includes: the python assignments that we received on day 1 of the course.
+2. The Python-basic folder includes: the python assignments that we received on day 1 of the course.
 
-The Talktorials folder indcludes: the talktorials that we used for our research and are filled in. This folder also includes a separate word file with answers to the quizzes of these corresponding talktorials
+3. The Talktorials folder indcludes: the talktorials that we used for our research and are filled in. This folder also includes a separate word file with answers to the quizzes of these corresponding talktorials.
 
-The CBR folder includes: the final assignment of this course, consisting of the 3 parts that we received the assignment.
+4. The CBR folder includes: the final assignment of this course, consisting of the 3 parts that we received the assignment.
 
-
-In the main folder we also uploaded our presentation and a word file that includes our background research, literature, conclusions and discussion.
+5. In the main folder we also uploaded our presentation and a word file that includes our background research, literature, conclusions and discussion.
 
